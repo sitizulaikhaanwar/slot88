@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot88",
+        "command": "slot88:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot88",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot88:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "slot88",
+  "main": "./lib/slot88",
+  "version": "0.0.0",
+  "description": "Daftar Slot Online Mudah Menang Jackpot Terbesar 2022 | SLOT88",
+  "keywords": ["slot88", "slot gacor", "slot online", "slot mudah menang"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot88:toggle"
+  },
+  "repository": "https://github.com/sitizulaikhaanwar/slot88.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
